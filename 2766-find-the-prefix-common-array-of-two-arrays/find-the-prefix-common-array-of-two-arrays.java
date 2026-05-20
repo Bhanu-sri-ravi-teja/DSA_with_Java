@@ -1,8 +1,7 @@
 class Solution {
     public int[] findThePrefixCommonArray(int[] A, int[] B) {
-        int n = A.length;
-        int[] res = new int[n];
-        for(int i=0; i<n; i++){
+        int[] res = new int[A.length];
+        for(int i=0; i<A.length; i++){
             int j = i;
             int k = i;
             res[i] = 0;
