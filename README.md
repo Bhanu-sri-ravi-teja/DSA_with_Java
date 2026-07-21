@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1376-time-needed-to-inform-all-employees) |
+## Array
+|  |
+| ------- |
+| [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 <!---LeetCode Topics End-->
