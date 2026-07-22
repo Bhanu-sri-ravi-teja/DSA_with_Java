@@ -28,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
+## Matrix
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
