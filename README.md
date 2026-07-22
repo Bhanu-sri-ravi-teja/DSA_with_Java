@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Hash Table
+|  |
+| ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Counting
+|  |
+| ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
