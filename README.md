@@ -32,14 +32,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2661-first-completely-painted-row-or-column) |
 ## Matrix
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2661-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2661-first-completely-painted-row-or-column) |
 ## Counting
 |  |
 | ------- |
