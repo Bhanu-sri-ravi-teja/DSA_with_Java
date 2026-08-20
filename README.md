@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
 | [1792-maximum-average-pass-ratio](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1792-maximum-average-pass-ratio) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
