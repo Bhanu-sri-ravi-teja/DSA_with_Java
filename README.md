@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
 | [1792-maximum-average-pass-ratio](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1792-maximum-average-pass-ratio) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0169-majority-element) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 ## Trie
@@ -86,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
