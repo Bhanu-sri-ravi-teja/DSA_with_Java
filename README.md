@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
 | [1792-maximum-average-pass-ratio](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1792-maximum-average-pass-ratio) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1929-concatenation-of-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2661-first-completely-painted-row-or-column) |
 ## Matrix
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
+| [1929-concatenation-of-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
