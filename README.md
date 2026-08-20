@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
 | [1792-maximum-average-pass-ratio](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1792-maximum-average-pass-ratio) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 ## Trie
