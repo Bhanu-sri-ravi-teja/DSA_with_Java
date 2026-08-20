@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
