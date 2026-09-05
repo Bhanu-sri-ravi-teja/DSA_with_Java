@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1108-defanging-an-ip-address) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2103-rings-and-rods](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2103-rings-and-rods) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0706-design-hashmap) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2103-rings-and-rods](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2103-rings-and-rods) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2661-first-completely-painted-row-or-column) |
 ## Counting
 |  |
