@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1929-concatenation-of-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2661-first-completely-painted-row-or-column) |
+| [3903-smallest-stable-index-i](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
