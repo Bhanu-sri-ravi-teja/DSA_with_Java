@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0706-design-hashmap) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0706-design-hashmap) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
