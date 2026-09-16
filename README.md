@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
