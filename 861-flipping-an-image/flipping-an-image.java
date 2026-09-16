@@ -1,9 +1,8 @@
 class Solution {
     public int[][] flipAndInvertImage(int[][] image) {
         int rows = image.length;
-        int colums = image[0].length;
         for(int i=0; i<rows; i++){
-            int right = colums-1;
+            int right = image[0].length-1;
             int left = 0;
             while(right>=left){
                 int temp = image[i][right];
