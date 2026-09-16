@@ -12,7 +12,6 @@ class Solution {
     public ListNode middleNode(ListNode head) {
         System.out.println(head.val);
         Boolean bool = true;
-        int count = 0;
         ListNode temp = head;
         while(temp.next != null){
             temp = temp.next;
