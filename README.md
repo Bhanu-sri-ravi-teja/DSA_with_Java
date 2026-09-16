@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0706-design-hashmap) |
+| [0832-flipping-an-image](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0832-flipping-an-image) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
 | [1792-maximum-average-pass-ratio](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1792-maximum-average-pass-ratio) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0832-flipping-an-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/2661-first-completely-painted-row-or-column) |
 ## Hash Table
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0832-flipping-an-image) |
 | [1646-get-maximum-in-generated-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Bhanu-sri-ravi-teja/DSA_with_Java/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
