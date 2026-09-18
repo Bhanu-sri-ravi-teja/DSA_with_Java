@@ -40,7 +40,7 @@ class Solution {
             int temp = swapNumb.val;
             swapNumb.val = firstMax.val;
             firstMax.val = temp;
-        }else if((secondMax != null) && (swapNumb != null)){
+        }else if(swapNumb != null){
             int temp = swapNumb.val;
             swapNumb.val = secondMax.val;
             secondMax.val = temp;
