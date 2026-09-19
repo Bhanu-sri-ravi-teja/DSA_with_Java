@@ -1,6 +1,6 @@
 class Solution {
     public int[] rowAndMaximumOnes(int[][] mat) {
-        int maxOnesRow = -1;
+        int maxOnesRow = 0;
         int maxOnes = 0;
         for(int i=0; i<mat.length; i++){
             int rowOnesCount = 0;
@@ -14,7 +14,6 @@ class Solution {
                 maxOnesRow = i;
             }
         }
-        if(maxOnesRow== -1) return new int[]{0,maxOnes};        
         return new int[]{maxOnesRow,maxOnes};
     }
 }
