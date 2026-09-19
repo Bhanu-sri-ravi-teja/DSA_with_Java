@@ -22,12 +22,8 @@ class Solution {
             list.add(path);
             return;
         }
-        if(root.left != null){
-            getPath(root.left, path + "->");
-        }
-        if(root.right != null){
-            getPath(root.right, path + "->");
-        }
+        getPath(root.left, path + "->");
+        getPath(root.right, path + "->");
     }
     public List<String> binaryTreePaths(TreeNode root) {
         getPath(root, "");
