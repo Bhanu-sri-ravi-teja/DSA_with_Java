@@ -3,17 +3,18 @@ class Solution {
         int left = 0;
         int right = height.length - 1;
         int maxWater = 0;
-        while(left < right){
-            int water = Math.min(height[left] , height[right]) * (right - left);
-            if(water > maxWater){
-                maxWater = water;
-            }
-            if(height[left] < height[right]){
+
+        while (left < right) {
+            int water = Math.min(height[left], height[right]) * (right - left);
+            maxWater = Math.max(maxWater, water);
+
+            if (height[left] < height[right]) {
                 left++;
-            }else{
+            } else {
                 right--;
             }
         }
+
         return maxWater;
     }
 }
